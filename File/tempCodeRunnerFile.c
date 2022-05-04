@@ -1,0 +1,1 @@
+ ptr = fopen("lkshh.txt","w");
