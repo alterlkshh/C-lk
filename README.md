@@ -4,7 +4,7 @@ So the first semester of my college just got over, and this sem we were taught b
 
 ## Programs
 
-Here is the list of C programs which I practiced this sem, which includes 
+Here is the list of C topics which I learned this sem, which includes 
 ..
 
 * BASICS
